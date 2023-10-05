@@ -58,7 +58,7 @@ Discord should now display your custom Rich Presence status on your profile.
 
 If you encounter any issues or the Rich Presence doesn't work as expected, make sure to:
 
-Ensure that Node.js is installed on your computer.
+Ensure that `Node.js` is installed on your computer.
 
 Double-check that you have replaced `'Client-Id'` with your actual Discord application's Client ID.
 
